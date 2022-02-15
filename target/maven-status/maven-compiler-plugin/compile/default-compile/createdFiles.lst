@@ -1,0 +1,4 @@
+br/com/fgarioli/keycloak/ExtensionProvider.class
+br/com/fgarioli/keycloak/ExtensionProviderFactory.class
+br/com/fgarioli/keycloak/resource/GroupResource.class
+.netbeans_automatic_build
